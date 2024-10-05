@@ -1,3 +1,6 @@
+export ORION_CONFIG
+ORION_CONFIG = config.json
+
 bootstrap:
 	pip install -r requirements.txt
 
